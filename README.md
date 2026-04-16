@@ -34,7 +34,7 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 24520978      | Dương Đức Lộc     |[AdamNbz](https://github.com/Duck-Lock)                 |24520978@gm.uit.edu.vn   |
+| 1      | 24520978      | Dương Đức Lộc     |[](https://github.com/Duck-Lock)                 |24520978@gm.uit.edu.vn   |
 | 2      | 24521034      | Châu Gia Lương   |[](https://github.com/)         |24521034@gm.uit.edu.vn   |
 | 3      | 24521045      | Trần Đức Mạnh     |[](https://github.com/)                 |24521045@gm.uit.edu.vn   |
 | 2      | 24521081      | Nguyễn Văn Minh           |[](https://github.com/)   |24521081@gm.uit.edu.vn   |
