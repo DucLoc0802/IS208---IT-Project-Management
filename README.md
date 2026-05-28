@@ -33,11 +33,11 @@
 <a name="thanhvien"></a>
 | STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
 | ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
-| 1      | 24520978      | Dương Đức Lộc     |[](https://github.com/Duck-Lock)                 |24520978@gm.uit.edu.vn   |
-| 2      | 24521034      | Châu Gia Lương   |[](https://github.com/)         |24521034@gm.uit.edu.vn   |
-| 3      | 24521045      | Trần Đức Mạnh     |[](https://github.com/)                 |24521045@gm.uit.edu.vn   |
-| 2      | 24521081      | Nguyễn Văn Minh           |[](https://github.com/)   |24521081@gm.uit.edu.vn   |
-| 2      | 24521093      | Nguyễn Thế Mỹ           |[](https://github.com/)   |24521093@gm.uit.edu.vn   |
+| 1      | 24520978      | Dương Đức Lộc     |[](https://github.com/DucLoc0802)                 |24520978@gm.uit.edu.vn   |
+| 2      | 24521034      | Châu Gia Lương   |[](https://github.com/24520134GiaLuong)         |24521034@gm.uit.edu.vn   |
+| 3      | 24521045      | Trần Đức Mạnh     |[](https://github.com/0814174177)                 |24521045@gm.uit.edu.vn   |
+| 2      | 24521081      | Nguyễn Văn Minh           |[](https://github.com/24521081-ui)   |24521081@gm.uit.edu.vn   |
+| 2      | 24521093      | Nguyễn Thế Mỹ           |[](https://github.com/themy130806-eng)   |24521093@gm.uit.edu.vn   |
 
 
 ## ĐỒ ÁN MÔN HỌC
